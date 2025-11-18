@@ -39,7 +39,7 @@ The project follows these steps:
 ## Project Structure
 
 ```
-Project4/
+Hyperspectral_Image_Classification_with_KNN_and_Dimensionality_Reduction
 ├── Data/
 │   ├── Indian_pines_corrected.mat
 │   └── Indian_pines_gt.mat
